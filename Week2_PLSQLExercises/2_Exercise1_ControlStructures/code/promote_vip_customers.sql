@@ -1,0 +1,3 @@
+UPDATE Customers
+SET IsVIP = TRUE
+WHERE Balance > 10000;
